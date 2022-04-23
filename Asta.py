@@ -36,10 +36,10 @@ def aink(s):
 
 time.sleep(0.1)
 print("""\033[95m╔═════════════════════════════════════════════╗
-\033[95m║ \033[97m  *\033[96mAuthor   \033[97m║\033[97mMBOKEYY     \033[95m                   ║
-\033[95m║ \033[97m *\033[96mPerecode  \033[97m║\033[97mNDREX STORE \033[95m                   ║
-\033[95m║ \033[97m  *\033[96mFACEBOOK \033[97m║\033[97mhttps://facebook.com/MBOKEYY.\033[95m  ║
-\033[95m║ \033[97m  *\033[96mINSTAGRAM\033[97m║ \033[97m     FACHRIKANOHYEEE .REE...\033[95m  ║
+\033[95m║ \033[97m *\033[96mAuthor   \033[97m║\033[97mMBOKEYY     \033[95m                   ║
+\033[95m║ \033[97m *\033[96mPerecode \033[97m║\033[97mNDREX STORE \033[95m                   ║
+\033[95m║ \033[97m *\033[96mFACEBOOK \033[97m║\033[97mhttps://facebook.com/MBOKEYY.\033[95m  ║
+\033[95m║ \033[97m *\033[96mINSTAGRAM\033[97m║ \033[97m     FACHRIKANOHYEEE .REE...\033[95m  ║
 \033[95m╚═════════════════════════════════════════════╝""")
 print("\033[95m║ \033[97m-\033[96mM\033[97m-\033[96mB\033[97m-\033[96mO\033[97m-\033[96mK\033[97m-\033[96mE\033[97m-\033[96mY \033[97m-\033[96m B\033[97m-\033[96mH\033[97m-\033[96mI\033[97m-\033[96mZ\033[97m-\033[96mE\033[97m-\033[96mR \033[97m- \033[96mR\033[95m║")
 print("\033[92m*Bila Belum Mengetahui Pasword Chat Di Whatsapp")
